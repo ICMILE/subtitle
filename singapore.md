@@ -8,12 +8,20 @@
 
 ## 8月11日（周二）
 ### 白天
-- **主要安排**：乘坐高铁前往上海 
+- **主要安排**：乘坐高铁前往上海
+  - 09:21 马鞍山东站 -> 11:54 上海虹桥站(Luggage Delivery)
+  - 13:10 lunch time
+  - 14:00 SGD exchanger
+  - 
+
+
+
+## 8月11日（周二）
 - 
 | 时间 | 中文名称 | 英文名称 | 位置信息 |
 | :--- | :--- | :--- | :--- |
-| 00:17 | 浦东机场 | Pudong Airport | 中国上海市 |
-| 00:50 | 星耀樟宜（含雨漩涡瀑布） | Jewel Changi Airport (with HSBC Rain Vortex) | 新加坡樟宜机场，连接 T1、T2、T3 航站楼 |
+| 19:10 | 浦东机场 | Pudong Airport | 中国上海市 |
+| 00:35 | 星耀樟宜（含雨漩涡瀑布） | Jewel Changi Airport (with HSBC Rain Vortex) | 新加坡樟宜机场，连接 T1、T2、T3 航站楼 |
 
 
 ---
@@ -100,9 +108,8 @@
 **Oasia Hotel Novena**
 ### 上午 10:00
 - **怡丰城 / VivoCity**
-  - **Wine Connection Bistro (Capital Square)** 
-    - 25 Church St, #01-01 Capital Square 3, Singapore 049482
-
+  - **Wine Connection Bistro** 
+    - 
 - **前往圣淘沙岛 / Sentosa Island** 
   - **Sentosa Boardwalk** 从怡丰城1楼沿着圣淘沙步行栈道免费步行入岛
   - **圣淘沙捷运 / Sentosa Express** 3楼的 “Lobby L” 找到圣淘沙捷运的乘车处 4新币/人
@@ -140,6 +147,8 @@
   - “I‘d like a one-way ticket from Sentosa back to Mount Faber.”
   - “How much is that？”
   - “Any discount？”
+  - “Do you take Alipay/WeChat Pay？”
+  - “Do you accept credit cards？”
 
 ---
 
