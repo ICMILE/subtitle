@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typing Box</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #4c838a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background：none;
+            padding: 20px;
+            border-radius: 20px;
+            /* box-shadow: 0 8px 23px rgba(66, 160, 214, 0.829); */
+            width: 100%;
+            max-width: 600px;
+            position: relative;
+            opacity: 1;
+            z-index: 1;
+        }
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('E:/Premiere/source material/pictures/Timeline 1_01_00_34_00.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            border-radius: 20px;
+            opacity: 1;
+            z-index: -1;
+        }
+        
+        h1 {
+            color: #e0e0e0;
+            font-weight: 400;
+            font-size: 20px;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        @keyframes triggerShake {
+            0% { transform: scale(1) rotate(0deg); }
+            20% { transform: scale(1.25) rotate(-4deg); } 
+            40% { transform: scale(1.25) rotate(4deg); }   
+            60% { transform: scale(1.25) rotate(-2deg); }
+            80% { transform: scale(1.1) rotate(0deg); }
+            100% { transform: scale(1) rotate(0deg); }
+        }
+        .container h1.animate {
+            animation: triggerShake 0.6s ease-in-out forwards;
+                forwards 
+        }
+        textarea {
+            width: 80%;
+            field-sizing: content;
+            max-height: 130px;
+            /* background: #3a5c86; */
+            background-color: rgba(161, 175, 201, 0.5);
+            border: 1px solid #455f7f;
+            border-radius: 10px;
+            color: #e0e0e0;
+            font-size: 22px;
+            padding: 16px;
+            resize: vertical;
+            outline: none;
+            transition: border-color 0.3s;
+            font-family: inherit;
+            /* opacity: 0.6; */
+        }
+        textarea:focus {
+            border-color: #e94560;
+        }
+        textarea::placeholder {
+            color: #8888aa;
+        }
+        .info {
+            margin-top: 16px;
+            color: #8888aa;
+            font-size: 11px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⌨️ Typing... </h1>
+        <textarea placeholder="   in case I don't see you, 
+        祝你早安，午安，晚安"></textarea>
+        <div class="info"></div>
+    </div>
+
+    <script>
+        const h1 = document.getElementById('title');
+        const ta = document.getElementByld('myTextarea');
+
+        let isAtMaxHeight = false;
+        ta.addEventListenr('input', fuction(){
+            this.style.height = 'auto';
+            const newHeight = this.scrollHeight;
+            const maxHeight = parseInt(getComputedStyle(this).maxHeight, 10);
+
+            if (newHeight >maxHeight) {
+                this.style.height = maxHeighr + 'px';
+                if (!isAtMaxHeight) {
+                    isAtMaxHeight = true;
+                    startAutoScroll(this);
+                }
+            } else {
+                this.style.height = newHeight + 'px';
+                isAtMaxHeight = false;
+                if (this.scrollInterval) {
+                    clearInterval(this.scrollInterval);
+                    this.scrollInterval = null;
+                }
+                this.scrollTop = 0;
+            }
+            hl.classList.remove('animate');
+            void hL.offsetWidth;
+            hl.classList.add('animate');
+        });
+
+        function starAutoScroll(element) {
+            if (element.scrollInterval) {
+                clearInterval(element.acrollInterval);
+                element.scrollInterval = null;
+            }
+
+            element.scrollInterval = setInterval(() = > {
+                if (element.scrollTop >= element.scrollHeight - element.clientHeight) {
+                    return;
+                }
+                element.scrollTop += 1;
+            }, 50);
+        }
+    </script>
+</body>
+</html>

@@ -176,6 +176,11 @@ def generate_srt_typewriter_mode(text):
             current_time = end
             entry_counter += 1
 
+    if idx == len(chars) - 1:
+        dur = duration[idx] + 0.3
+    else:
+        dur = duration[idx]
+        
     total = entry_counter - 1
     print(f"Total characters processed: {total}")
     return "\n".join(srt_entries)
