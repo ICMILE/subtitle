@@ -12,11 +12,10 @@
   - 09:21 马鞍山东站 -> 11:54 上海虹桥站(Luggage Delivery)
   - 13:10 lunch time
   - 14:00 SGD exchanger
-  - 
+  - 15:47 Pudong Airport arrived
 
 
-
-## 8月11日（周二）
+## 8月11日（周二）- 8月12日（Day 1，周三）
 - 
 | 时间 | 中文名称 | 英文名称 | 位置信息 |
 | :--- | :--- | :--- | :--- |
@@ -96,13 +95,11 @@
 
 ### 晚上
 
-1. **Funan商场 / Funan Mall**（营业至22:00）  
+<!-- 1. **Funan商场 / Funan Mall**（营业至22:00）   -->
 2. **旧禧街警察局（彩虹窗）/ Old Hill Street Police Station** 140 Hill Street
 
 
 ---
-- **滨海湾金沙购物商城 / The Shoppes at Marina Bay Sands**  
-  - 纯逛街，无需预订；可打卡水上LV旗舰店。
 
 ## 8月14日（Day 3，周五）
 **Oasia Hotel Novena**
@@ -158,8 +155,9 @@
 - **新加坡国家博物馆 / National Museum of Singapore**  
   - 10:00开门；自2025年9月起无需预约时段，提前官网或平台购票可省去现场排队
 
+- **滨海湾金沙购物商城 / The Shoppes at Marina Bay Sands**  
+  - 纯逛街，无需预订；可打卡水上LV旗舰店。
 ### 下午 16:00-
-- **CapitaSpring空中花园（51楼）/ Sky Garden at CapitaSpring**  
 
 
 
@@ -170,33 +168,49 @@
 ---
 
 ## 8月16日（Day 5，周七）
-**Oasia Hotel Novena**
+**Oasia Hotel Novena** -> **Oasia Hotel Downtown**
 ### 上午
+- **莱佛士坊​​ / Raffles Place**
 - **李光前自然历史博物馆 / Lee Kong Chian Natural History Museum** 2 Conservatory Drive, Singapore 117377
   - 位于新加坡国立大学（NUS）肯特岗校区内，搭乘地铁到肯特岗站 (Kent Ridge MRT)
   - 周四至周日 10:00 - 17:00（最晚15:30入园）；周一至周三闭馆; 
   - 需购票 108 $
+**Oasia Hotel Novena**
 
 ### 下午 — 晚上
+1. **Funan商场 / Funan Mall**（营业至22:00）  
 -
 
 ---
 
 ## 8月17日（Day 6，周一）
-**Oasia Hotel Novena**
-- **滨海湾花园 - 云雾林 / Cloud Forest**（冷室，建议带外套）  
-  - 需购票 144 $ (与花穹买双馆联票)
 
+### 下午 16:00-
+- **CapitaSpring空中花园（51楼）/ Sky Garden at CapitaSpring** 
+  - 下午场​​：14:30 - 18:00（最后入场 17:30） <!-- markmap: fold -->
+  - "One ticket for the Sky Garden, please."
+  - "Can I pay by credit card?"
 ### 晚上
 - **SKAI Bar** 
   - Monday, 17 August 2026 2 guests · 19:00
-  - Swissôtel The Stamford 2 Stamford Road, #70-02 (Level 70)，从酒店大堂坐电梯上70楼
+  - Swissôtel The Stamford 2 Stamford Road, #70-02 (Level 70)，从酒店大堂坐电梯上70楼<!-- markmap: fold -->
+    - “Excuse me, could we order please?”
+    - “What do you recommend?”
+    - “What’s your signature dish?”
+    - “Check, please.”
+    - “Can I have the bill？”
 
 ## 8月18日（Day 7，周二）
 **Oasia Hotel Novena**
 - 
 ### 上午 — 傍晚
+
+**Oasia Hotel Novena**
+- **滨海湾花园 - 云雾林 / Cloud Forest**（冷室，建议带外套）  
+  - 需购票 144 $ (与花穹买双馆联票)
+
 - **星耀机场**
+  - **18:25 新加坡 → 23:40 上海浦东（MU6050**
 
 ## 8月19日（Day 8，周三）
 ### 上午
