@@ -59,8 +59,7 @@
 2. **苏丹回教堂 / Sultan Mosque**（开放时间：10:00-12:00，14:00-16:00）  
 3. **哈芝巷 / Haji Lane** – 甘榜格南 (Kampong Glam) 区，近武吉士 (Bugis) 地铁站  
 4. **赞美广场 / CHIJMES** – 维多利亚街 (Victoria Street)，市中心
-5. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦
-6. **新加坡国家美术馆 (National Gallery Singapore)** – 前政府大厦和前高等法院改建, 地铁坐到政府大厦站（City Hall）B出口，通过有盖走廊步行约7分钟直达
+5. ~~ 圣安德烈教堂 / (St Andrew's Cathedral) ~~ 中央商务区，近政府大厦
 7. **维多利亚剧院 (Victoria Theatre and Concert Hall)** – 市政区 (Civic District)
 8. **鱼尾狮公园 (Merlion Park)** – 富丽敦酒店 (Fullerton Hotel) 旁
 
@@ -78,6 +77,7 @@
 
 - **备注**：全部免费进入，无需预订；注意苏丹回教堂中午有闭馆时间
 
+6. **新加坡国家美术馆 (National Gallery Singapore)** – 前政府大厦和前高等法院改建, 地铁坐到政府大厦站（City Hall）B出口，通过有盖走廊步行约7分钟直达
 ---
 
 ## 8月13日（Day 2，周四）
@@ -100,6 +100,7 @@
 ### ** 晚上（18:30 后）**：
 <!-- 1. **Funan商场 / Funan Mall**（营业至22:00）   -->
 1. **旧禧街警察局（彩虹窗）/ Old Hill Street Police Station** 140 Hill Street
+  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/4b8105d70bdd3c85fd3b444db1fa1056/notes_pre_post/1040g3k831rhc99bb7070491dsv1ccrsolpm4uk8!nc_n_webp_mw_1)
 <!-- 2. **🥩 晚餐：HANJIP Korean Grill House**
     - **地址**：3C River Valley Road, Clarke Quay, Blk C #01-11, The Cannery, Singapore 179019
     - **营业时间**：每日 12:00–14:30, 17:00–24:00
@@ -193,7 +194,8 @@
 **Oasia Hotel Downtown**
 
 ### 下午 — 晚上
-1. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦（二刷夜景）  
+1. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦（二刷夜景） 
+  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/0aa83cb4f15865781ee3e2e6a7b5b1d2/1040g2sg322h3brtg7oh05nj3ogh09frh6kchba0!nc_n_webp_mw_1) 
 2. **Long Bar / 莱佛士酒店** 新加坡司令发源地
 
 ---
