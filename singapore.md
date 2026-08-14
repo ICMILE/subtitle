@@ -159,31 +159,12 @@
 ---
 
 ## 8月15日（Day 4，周六）
-**Oasia Hotel Novena**
-### 上午 9:00
-- **新加坡国家博物馆 / National Museum of Singapore**  
-  - 10:00开门；自2025年9月起无需预约时段，提前官网或平台购票可省去现场排队
-
-- **午餐（12:00 - 14:30）**：**🥩 Bistecca Tuscan Steakhouse（顶级佛罗伦萨牛排）**
-  - **地址**：26 Mohamed Sultan Rd, Singapore 238970
-  - **提示**：曾获“亚洲最佳牛排馆”，**必须提前预订**（官网/电话）。
-  - **预订政策**：需信用卡担保，取消需提前 6 小时，否则扣 SGD 50/人。
-  - **着装要求**：Smart Casual（智能休闲
-
-**Oasia Hotel Novena** -> **Oasia Hotel Downtown**
-### 下午 16:00-
-
-- **滨海湾金沙购物商城 / The Shoppes at Marina Bay Sands**  
-  - 纯逛街，无需预订；可打卡水上LV旗舰店。
-
-
 ### 晚上
 1. **Funan商场 / Funan Mall**（营业至22:00）  
 
 
 ---
 
-## 8月16日（Day 5，周七）
 ### 上午
 <!-- - **莱佛士坊​​ / Raffles Place** -->
 - **Patchwork Kitchen** 享用早午餐
@@ -191,12 +172,35 @@
   - 位于新加坡国立大学（NUS）肯特岗校区内，搭乘地铁到肯特岗站 (Kent Ridge MRT)
   - 周四至周日 10:00 - 17:00（最晚15:30入园）；周一至周三闭馆; 
   - 需购票 108 $
-**Oasia Hotel Downtown**
-
+- 1 Cluny Rd, Singapore 259569
+- August Society @ Isetan Scotts
 ### 下午 — 晚上
 1. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦（二刷夜景） 
   - ![](https://sns-webpic-qc.xhscdn.com/202608130351/0aa83cb4f15865781ee3e2e6a7b5b1d2/1040g2sg322h3brtg7oh05nj3ogh09frh6kchba0!nc_n_webp_mw_1) 
 2. **Long Bar / 莱佛士酒店** 新加坡司令发源地
+
+## 8月16日（Day 5，周七）
+**Oasia Hotel Novena**
+### 上午 9:00
+- **新加坡国家博物馆 / National Museum of Singapore**  
+  - 10:00开门；自2025年9月起无需预约时段，提前官网或平台购票可省去现场排队
+
+**Dao by Dorsett**
+Dao by Dorsett AMTD Singapore, 6 Shenton Wy, #07-01, OUE Downtown 1, 新加坡 068809
+
+- **午餐（12:00 - 14:30）**：**🥩 Bistecca Tuscan Steakhouse（顶级佛罗伦萨牛排）**
+  - **地址**：26 Mohamed Sultan Rd, Singapore 238970
+  - **提示**：曾获“亚洲最佳牛排馆”，**必须提前预订**（官网/电话）。
+  - **预订政策**：需信用卡担保，取消需提前 6 小时，否则扣 SGD 50/人。
+  - **着装要求**：Smart Casual（智能休闲
+
+**Oasia Hotel Novena** -> **Dao by Dorsett**
+### 下午 16:00-
+
+- **滨海湾金沙购物商城 / The Shoppes at Marina Bay Sands**  
+  - 纯逛街，无需预订；可打卡水上LV旗舰店。
+
+
 
 ---
 
@@ -218,7 +222,7 @@
     - “Can I have the bill？”
 
 ## 8月18日（Day 7，周二）
-**Oasia Hotel Downtown**
+**Dao by Dorsett**
 - 
 ### 上午 — 傍晚
 
