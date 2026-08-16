@@ -60,16 +60,8 @@
 3. **哈芝巷 / Haji Lane** – 甘榜格南 (Kampong Glam) 区，近武吉士 (Bugis) 地铁站  
 4. **赞美广场 / CHIJMES** – 维多利亚街 (Victoria Street)，市中心
 5. ~~ 圣安德烈教堂 / (St Andrew's Cathedral) ~~ 中央商务区，近政府大厦
-7. **维多利亚剧院 (Victoria Theatre and Concert Hall)** – 市政区 (Civic District)
 8. **鱼尾狮公园 (Merlion Park)** – 富丽敦酒店 (Fullerton Hotel) 旁
 
-### 傍晚 17:30
-- **滨海湾花园户外区域**（吃点，看日落）  
-  - 
-| 地铁站 (MRT Station) | 地铁线路 | 建议出口 | 步行时间 | 特点 |
-| :--- | :--- | :--- | :--- | :--- |
-| **海湾舫站 (Bayfront MRT)** | 蓝线 (Downtown Line) / 黄线 (Circle Line) | **B出口** | 约5-10分钟 | 途经**金沙购物中心**，大部分为有空调的地下通道，非常舒适 |
-| **滨海湾花园站 (Gardens by the Bay MRT)** | 棕线 (Thomson-East Coast Line) | 跟随站内指示牌 | 出站即达 | 最新、最直接的地铁站，出站便是花园 |
 
 ### 晚上 19:45 / 20:45
 - **超级树灯光秀（Garden Rhapsody）**  
@@ -83,8 +75,6 @@
 ## 8月13日（Day 2，周四）
 **Oasia Hotel Novena**
 ### 上午 10:00
-1. **福康宁网红树洞 / 龙之穴 (Dragon's Den / Fort Canning Tree Tunnel)** – 位于福康宁公园内
-2. **福康宁公园 (Fort Canning Park)** – 河谷路 (River Valley Rd)
 3. **中央消防局（历史消防站）/ Central Fire Station** – 禧街 (Hill Street)，博物馆规划区
 4. **旧禧街警察局（彩虹窗）/ Old Hill Street Police Station** 
 5. **克拉码头 / Clarke Quay** – 新加坡河北岸，牛车水以北
@@ -96,11 +86,6 @@
    3. ![](http://sns-webpic-qc.xhscdn.com/202608101003/76749b1ac57f3b555aa7d006adb159a7/comment/1040g2h0323aldkd66u004a0dv0gq9bh8ov3vgoo!nc_n_webp_mw_1)
    
 
-
-### ** 晚上（18:30 后）**：
-<!-- 1. **Funan商场 / Funan Mall**（营业至22:00）   -->
-1. **旧禧街警察局（彩虹窗）/ Old Hill Street Police Station** 140 Hill Street
-  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/4b8105d70bdd3c85fd3b444db1fa1056/notes_pre_post/1040g3k831rhc99bb7070491dsv1ccrsolpm4uk8!nc_n_webp_mw_1)
 <!-- 2. **🥩 晚餐：HANJIP Korean Grill House**
     - **地址**：3C River Valley Road, Clarke Quay, Blk C #01-11, The Cannery, Singapore 179019
     - **营业时间**：每日 12:00–14:30, 17:00–24:00
@@ -173,17 +158,19 @@
   - 周四至周日 10:00 - 17:00（最晚15:30入园）；周一至周三闭馆; 
   - 需购票 108 $
 - 1 Cluny Rd, Singapore 259569
+  - ![](https://sns-webpic-qc.xhscdn.com/202608150409/5c062f872c9cf996988e8355c81a673f/1040g2sg320gjeio76e30400igq429mklc2fub5o!nd_dft_wlteh_webp_3)
 - August Society @ Isetan Scotts
 ### 下午 — 晚上
-1. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦（二刷夜景） 
-  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/0aa83cb4f15865781ee3e2e6a7b5b1d2/1040g2sg322h3brtg7oh05nj3ogh09frh6kchba0!nc_n_webp_mw_1) 
-2. **Long Bar / 莱佛士酒店** 新加坡司令发源地
 
 ## 8月16日（Day 5，周七）
 **Oasia Hotel Novena**
-### 上午 9:00
+
+### ~~ 上午 9:00 ~~
+1. **福康宁网红树洞 / 龙之穴 (Dragon's Den / Fort Canning Tree Tunnel)** – 位于福康宁公园内
+2. **福康宁公园 (Fort Canning Park)** – 河谷路 (River Valley Rd)
 - **新加坡国家博物馆 / National Museum of Singapore**  
   - 10:00开门；自2025年9月起无需预约时段，提前官网或平台购票可省去现场排队
+7. **维多利亚剧院 (Victoria Theatre and Concert Hall)** – 市政区 (Civic District)
 
 **Dao by Dorsett**
 Dao by Dorsett AMTD Singapore, 6 Shenton Wy, #07-01, OUE Downtown 1, 新加坡 068809
@@ -200,6 +187,21 @@ Dao by Dorsett AMTD Singapore, 6 Shenton Wy, #07-01, OUE Downtown 1, 新加坡 0
 - **滨海湾金沙购物商城 / The Shoppes at Marina Bay Sands**  
   - 纯逛街，无需预订；可打卡水上LV旗舰店。
 
+### 傍晚 17:30
+- **滨海湾花园户外区域**（吃点，看日落）  
+  - 
+| 地铁站 (MRT Station) | 地铁线路 | 建议出口 | 步行时间 | 特点 |
+| :--- | :--- | :--- | :--- | :--- |
+| **海湾舫站 (Bayfront MRT)** | 蓝线 (Downtown Line) / 黄线 (Circle Line) | **B出口** | 约5-10分钟 | 途经**金沙购物中心**，大部分为有空调的地下通道，非常舒适 |
+| **滨海湾花园站 (Gardens by the Bay MRT)** | 棕线 (Thomson-East Coast Line) | 跟随站内指示牌 | 出站即达 | 最新、最直接的地铁站，出站便是花园 |
+
+### ** 晚上（18:30 后）**：
+<!-- 1. **Funan商场 / Funan Mall**（营业至22:00）   -->
+1. **旧禧街警察局（彩虹窗）/ Old Hill Street Police Station** 140 Hill Street
+  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/4b8105d70bdd3c85fd3b444db1fa1056/notes_pre_post/1040g3k831rhc99bb7070491dsv1ccrsolpm4uk8!nc_n_webp_mw_1)
+1. **圣安德烈教堂 / (St Andrew's Cathedral)** – 中央商务区，近政府大厦（二刷夜景） 
+  - ![](https://sns-webpic-qc.xhscdn.com/202608130351/0aa83cb4f15865781ee3e2e6a7b5b1d2/1040g2sg322h3brtg7oh05nj3ogh09frh6kchba0!nc_n_webp_mw_1) 
+2. **Long Bar / 莱佛士酒店** 新加坡司令发源地
 
 
 ---
